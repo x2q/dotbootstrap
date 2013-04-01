@@ -1,1 +1,1 @@
-web: bundle exec jekyll --server -p $PORT
+web: bundle exec unicorn -p $PORT -c ./unicorn.rb

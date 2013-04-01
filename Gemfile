@@ -1,4 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'redcarpet'
+gem 'rack-jekyll', :git => 'https://github.com/adaoraul/rack-jekyll'
+gem 'unicorn'
+gem 'heroku'
