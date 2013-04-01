@@ -1,0 +1,18 @@
+---
+layout: post
+published: true
+title: Lan Party
+permalink: /lan-party/
+wordpress_id: 79
+categories:
+- News
+- Martin
+- Skipper
+- LAN
+- Lan Party
+---
+
+
+Today I'm nerding together with Andreas, Mads, <a href="http://www.toyota.dk">Martin</a> and Skipper to a Lan at Skipper's place.
+
+<img src="http://lh4.ggpht.com/-Sw-y4Kl0hOU/UVl8Tmfwm4I/AAAAAAAAFc4/ITzO3AUtBPM/lan-ved-skipper.jpg" border="0" alt="Lan at Skipper's place" />

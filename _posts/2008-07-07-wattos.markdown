@@ -1,0 +1,20 @@
+---
+layout: post
+published: true
+title: wattOS
+permalink: /wattos/
+wordpress_id: 647
+categories:
+- News
+- Ubuntu
+- wattOS
+- operating system
+- GUI
+- less energy
+- energy use
+- wattOS server
+- wattos login
+---
+
+
+<a href="http://www.planetwatt.com/">wattOS :: Light-Fast-Now</a><br /><blockquote>Light - Fast - Now<br /><br />Use your computers in a lightweight but fully featured way using less energy. The operating will run on low power computers and recycled systems keeping you working and playing with all the features you expect..<br /><br />It will be fast and easy, and now is the right time to rethink our energy use and computers in our daily lives.<br /><br />There will be three desktop versions<br /><br />wattOS - The core desktop system using a fully featured Gnome desktop<br /><br />mWattOS - Milliwatt a smaller desktop system using XFCE as the core interface. (known as mWOS)<br /><br />&Acirc;&micro;WattOS - Microwatt an even smaller desktop utilizing a minimal desktop GUI or command line. Ideal for appliances, small systems, kiosks, or old computers.<br /><br />There will initially be one server version that will be modular and specialized.<br /><br />Substation - The wattOS server<br /><br />We are actively looking for developers and supporters in our efforts to create a low power operating system that can be used personally and commercially. contact us and watch for updates to get involved.<br /><br />Light - Fast - Now<br /><br />wattOS</blockquote>

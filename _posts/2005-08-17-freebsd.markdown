@@ -1,0 +1,17 @@
+---
+layout: post
+published: true
+title: FreeBSD
+permalink: /freebsd/
+wordpress_id: 116
+categories:
+- Links
+- Uncategorized
+- FreeBSD
+- too much driver
+---
+
+
+Today I decided to use some of my spare time to take a closer look on <a href="http://lists.freebsd.org/pipermail/freebsd-stable/2005-August/017586.html">FreeBSD 6.0-BETA2</a>. Since the company I work for only uses <a href="http://www.freebsd.org/">FreeBSD</a> and since my <a href="http://www.freebsd.org/">FreeBSD</a> skills are not that good  so I better need some real experience. It's more than two years ago I last logged into a <a href="http://www.freebsd.org/">FreeBSD</a> powered server.
+
+Hopefully it will run on my notebook without too much driver mangling.

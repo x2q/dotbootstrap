@@ -1,0 +1,14 @@
+---
+layout: post
+published: true
+title: Ajax
+permalink: /ajax/
+wordpress_id: 67
+categories:
+- News
+- AJAX
+- xml
+---
+
+
+<a href="http://www.adaptivepath.com/ideas/ajax-new-approach-web-applications">Ajax (Asynchronous JavaScript and XML)</a>

@@ -7,6 +7,7 @@
     {% endif %}
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <link rel="stylesheet" media="screen" href="/stylesheets/screen.css" type="text/css" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/7.3/styles/solarized_dark.min.css">
     {% if site.feedburner %}
     <link href="http://feeds.feedburner.com/{{ site.feedburner.id }}" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
     {% endif %}
@@ -23,6 +24,11 @@
       })();
     </script>
     {% endif %}
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/7.3/highlight.min.js"></script>
+    <script>
+     hljs.tabReplace = '    ';
+     hljs.initHighlightingOnLoad();
+     </script>
   </head>
   <body>
     <div id="page">

@@ -1,0 +1,14 @@
+---
+layout: post
+published: true
+title: Mac OS X on x86
+permalink: /mac-os-x-on-x86/
+wordpress_id: 113
+categories:
+- Links
+- Uncategorized
+- Mac OS X
+---
+
+
+Seems like <a href="http://xplodenet.com/">this site</a> got the clue

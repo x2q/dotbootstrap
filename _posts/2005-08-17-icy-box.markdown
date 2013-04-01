@@ -1,0 +1,27 @@
+---
+layout: post
+published: true
+title: Icy Box
+permalink: /icy-box/
+wordpress_id: 117
+categories:
+- Links
+- Uncategorized
+- Maxtor
+---
+
+
+Today I got a new piece of hardware. I got an external USB hard disk box and a Maxtor 250 Gb disk with 16 Mb of Cache. <img class='right' src='http://lh5.ggpht.com/-54f8Psz9A0o/UVl8ctiRfnI/AAAAAAAAFdo/CkzfrVdR-_Q/thumb-billede010.jpg' alt='Icy Box' />
+
+Unfortunately the external box is equipped with three cathode pipes with blue light, so already before I got it switched on I disconnected two of the cathode pipes on the sides of the box. I left the connector to the front cathode on because it's used to signal activity on the disk.
+<br />
+&nbsp;
+<img class='right' src='http://lh5.ggpht.com/-B692k2iUA_I/UVl8dsyl43I/AAAAAAAAFdw/1c87qqFhjzM/thumb-billede012.jpg' alt='disconnected cathodes' />
+Lucky me they are pretty easy to disconnect
+<br />
+&nbsp;
+<br />
+&nbsp;<br />
+<br />
+&nbsp;<br />
+

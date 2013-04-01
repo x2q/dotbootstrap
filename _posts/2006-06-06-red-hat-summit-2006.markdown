@@ -1,0 +1,23 @@
+---
+layout: post
+published: true
+title: Red Hat Summit 2006
+permalink: /red-hat-summit-2006/
+wordpress_id: 259
+categories:
+- Links
+- News
+- Linux
+- Matthew Szulik Keynote
+- summit promo site
+---
+
+
+<a class="imagelink" href="http://lh3.ggpht.com/-3m3-pXrabDU/UVl9Mm5LfZI/AAAAAAAAFiw/jz63hEWJ-NA/red-hat-summit.png" title="red_hat_summit.png"><img id="image258" src="http://lh6.ggpht.com/-Ao678iD9O9g/UVl9LRfL3oI/AAAAAAAAFik/TIvbWIILHAU/red-hat-summit.thumbnail.png" alt="red_hat_summit.png" /></a>
+
+
+<a href="http://www.redhat.com/v/ogg/summit2006_szulik_keynote.ogg">Matthew Szulik Keynote</a>
+
+
+<a href="http://www.redhat.com/promo/summit/">Red Hat summit promo site</a>
+

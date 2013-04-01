@@ -1,0 +1,12 @@
+---
+layout: post
+published: true
+title: Xen crazy
+permalink: /xen-crazy/
+wordpress_id: 65
+categories:
+- News
+---
+
+
+<a href="http://openskill.info/release/i-xen/">Crazy with Xen hardware virtualization tecnology</a>

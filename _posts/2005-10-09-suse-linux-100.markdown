@@ -1,0 +1,18 @@
+---
+layout: post
+published: true
+title: SUSE Linux 10.0
+permalink: /suse-linux-100/
+wordpress_id: 133
+categories:
+- News
+- Linux
+- Suse Linux
+---
+
+
+<img src='http://lh4.ggpht.com/-WKqDt3iwm0U/UVl8eiZU2kI/AAAAAAAAFd4/OGQZuNhCNlA/thumb-start.jpg' alt='SUSE Linux 10.0 boot screen' />
+
+<img src='http://lh6.ggpht.com/-LOMTKzfNEMo/UVl8frvywVI/AAAAAAAAFeA/qBbJXo80eSA/thumb-login.jpg' alt='SUSE Linux 10.0 login screen' />
+
+I must say  - SUSE Linux 10.0 looks beautiful.

@@ -1,27 +1,29 @@
 # standard jekyll configuration
 
-permalink: date
+permalink: /:title/
 pygments: true
 exclude: ['Rakefile', 'README.md', 'config.rb']
-markdown: rdiscount
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 # configuration required for some pages
 
-domain: blog.example.com
-title: My Blog Title
-author: Me
-email: me@example.com
+domain: dotbootstrap
+title: .bootstrap - safe with most medications
+author: .bootstrap
+email: dotbootstrap@x2q.net
 
 # configuration for ehancements, uncomment to enable
 
-# feedburner:
-#   id: feedburnerid
+#feedburner:
+#  id: feedburnerid
 
-# google_analytics:
-#   account: UA-XXXXX-X
+google_analytics:
+   account: UA-120957-20
 
-# github:
-#   username: ghusername
+github:
+  username: x2q
 
-# disqus:
-#   id: disqusid
+disqus:
+  id: dotbootstrap

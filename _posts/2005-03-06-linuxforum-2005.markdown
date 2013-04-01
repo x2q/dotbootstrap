@@ -1,0 +1,12 @@
+---
+layout: post
+published: true
+title: Linuxforum 2005
+permalink: /linuxforum-2005/
+wordpress_id: 29
+categories:
+- News
+---
+
+
+<img src="http://lh3.ggpht.com/-JfhxnJ8j5Gk/UVl8FwsK_FI/AAAAAAAAFbY/NTTaznn1n8E/2img-7089.jpg" border="0" alt="Linuxforum 2005" />

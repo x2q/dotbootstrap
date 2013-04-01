@@ -1,0 +1,20 @@
+---
+layout: post
+published: true
+title: Goobuntu
+permalink: /goobuntu/
+wordpress_id: 172
+categories:
+- News
+- Linux
+- Usability
+- Open Standards
+- google
+- goobuntu iso
+- goobuntu download
+---
+
+
+Seems like Google is working on a Linux Desktop project codenamed Goobuntu.
+
+<a href="http://www.theregister.co.uk/2006/01/31/google_goes_desktop_linux/">Google at work on desktop Linux</a>
