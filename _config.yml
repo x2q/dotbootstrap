@@ -2,7 +2,7 @@
 
 permalink: /:title/
 pygments: false
-exclude: ['Rakefile', 'README.md', 'config.rb', "Gemfile", "Gemfile.lock", "Procfile", "config.ru", "unicorn.rb", "_site"]
+exclude: ['Rakefile', 'README.md', 'config.rb', "Gemfile", "Gemfile.lock", "Procfile", "config.ru", "unicorn.rb", "vendor"]
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
