@@ -26,7 +26,6 @@ Boot your device on a <a href="http://www.ubuntu.com/download/desktop">Ubuntu</a
 
 
 ```
-
 $ shred -vfz -n 30 /dev/sdb
 cc@ea:~$ sudo shred -vfz -n 30 /dev/sdb
 shred: /dev/sdb: pass 1/31 (random)...
@@ -285,7 +284,6 @@ shred: /dev/sdb: pass 4/31 (a49249)...12GiB/39GiB 31%
 shred: /dev/sdb: pass 4/31 (a49249)...13GiB/39GiB 33%
 shred: /dev/sdb: pass 4/31 (a49249)...14GiB/39GiB 36%
 shred: /dev/sdb: pass 4/31 (a49249)...15GiB/39GiB 39%
-
 ```
 
 

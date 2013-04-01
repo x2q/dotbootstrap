@@ -34,9 +34,7 @@ It is possible to put together an advanced devices using linux, iptables, etc, h
 
 In case you got a DD-WRT or OpenWrt-based router/firewall, then you should be able to use one of the following one liner example command lines:
 
-
-<ul>
-  <li> Simple packet sniffing on the switch<br />
+Simple packet sniffing on the switch
     
 ```
 
@@ -45,7 +43,7 @@ In case you got a DD-WRT or OpenWrt-based router/firewall, then you should be ab
     
 ```
 
-  </li><li> Simple packet sniffing on port 3 of the switch<br />
+Simple packet sniffing on port 3 of the switch
     
 ```
 
@@ -54,8 +52,7 @@ In case you got a DD-WRT or OpenWrt-based router/firewall, then you should be ab
     
 ```
 
-  </li><li> Packet sniffing as a single remote command. Note that full
-  path to executables and library is required<br />
+Packet sniffing as a single remote command. Note that full path to executables and library is required
     
 ```
 
@@ -63,10 +60,9 @@ In case you got a DD-WRT or OpenWrt-based router/firewall, then you should be ab
     
 ```
 
-  </li><li> Remote command packet sniffing with raw packet dump to a local file.<br />
-    This command will do a remote packet capture on the switch and
-    save the raw packet data on the local PC, where it can be analysed
-    with <a href="http://www.wireshark.org">Wireshark</a> or other tools.<br />
+Remote command packet sniffing with raw packet dump to a local file.
+
+This command will do a remote packet capture on the switch and save the raw packet data on the local PC, where it can be analysed with <a href="http://www.wireshark.org">Wireshark</a> or other tools.
     
 ```
 
@@ -74,9 +70,7 @@ In case you got a DD-WRT or OpenWrt-based router/firewall, then you should be ab
     
 ```
 
-  </li><li> If you're using linux on your PC then you can pipe the raw
-  tcpdump capture into a Wireshark running on the local PC and get
-  live analysis of the data<br />
+If you're using linux on your PC then you can pipe the raw tcpdump capture into a Wireshark running on the local PC and get live analysis of the data
     
 ```
 
@@ -84,17 +78,13 @@ In case you got a DD-WRT or OpenWrt-based router/firewall, then you should be ab
     
 ```
 
-  </li><li> And, my favorite, piping the raw packet data into 
-    <a href="http://etherape.sourceforge.net/">Etherape</a> for a
-    live graphical representation of the network traffic<br />
+And, my favorite, piping the raw packet data into <a href="http://etherape.sourceforge.net/">Etherape</a> for a live graphical representation of the network traffic<br />
     
 ```
 
 	 ssh -x root@192.168.11.1 /sbin/tcpdump 'not tcp port 22' -i br1 -s0 -U -w - | etherape -r - <br />
     
 ```
-
-</li></ul>
 
 <strong>What is DD-WRT</strong>
 DD-WRT is a Linux-based firmware for several wireless routers, most notably the Linksys WRT54G (including the WRT54GL and WRT54GS). Like other similar projects, DD-WRT is third-party firmware designed to replace the firmware that ships pre-installed on many commercial routers. This is done for a variety of reasons including the addition of features which are not typically included in a manufacturer's router firmware.

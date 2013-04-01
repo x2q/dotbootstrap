@@ -7,6 +7,8 @@ wordpress_id: 2007
 categories:
 - News
 ---
+
+```
 Bus 002 Device 006: ID 04a9:109c Canon, Inc. PIXMA iP4000R
 Couldn't open device, some information will be missing
 Device Descriptor:
@@ -64,3 +66,6 @@ Device Descriptor:
           Usage Type               Data
         wMaxPacketSize     0x0040  1x 64 bytes
         bInterval               0
+
+```
+

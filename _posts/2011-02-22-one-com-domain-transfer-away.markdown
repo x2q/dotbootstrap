@@ -16,11 +16,7 @@ categories:
 - one.com
 ---
 
-
-1. Cancel your web space via the One.com chat/mail support.
-
-2. Request an AUTH-ID via the One.com chat/mail support or by contacting hostmaster-support@one.com.
-
-3. One.com will send the AUTH-ID to the mail address registered with them.
-
-4. Contact your new provider. The new provider will guide you to transfer your domain away from One.com.
+# Cancel your web space via the One.com chat/mail support.
+# Request an AUTH-ID via the One.com chat/mail support or by contacting hostmaster-support@one.com.
+# One.com will send the AUTH-ID to the mail address registered with them.
+# Contact your new provider. The new provider will guide you to transfer your domain away from One.com.

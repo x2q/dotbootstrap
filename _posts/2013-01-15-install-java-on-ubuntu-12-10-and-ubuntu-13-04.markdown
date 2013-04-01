@@ -18,6 +18,8 @@ Can be used on any Debian-like Linux distribution.
 
 On the command line, type:
 
+```
 $ sudo apt-get install openjdk-7-jre
+```
 
 The openjdk-7-jre package contains just the Java Runtime Environment. If you want to develop Java programs then install the openjdk-7-jdk package.

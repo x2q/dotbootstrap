@@ -29,8 +29,6 @@ First we compile hello.c -- The most famous program of them all using gcc.
 
 /* hello.c -- The most famous program of them all ..
 */
-```
-
 
 #include
 
@@ -38,7 +36,7 @@ int main(void) {
 printf("Hello World!\n");
 // return 0;
 }
-
+```
 
 ```
 gcc -o hello hello.c

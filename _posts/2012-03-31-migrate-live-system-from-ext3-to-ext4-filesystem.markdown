@@ -23,6 +23,8 @@ categories:
 - e4defrag
 - benchmarks
 ---
+
+
 <h3>Why Convert to Ext4</h3>
 <strong>Compatibility</strong>
 Any existing Ext3 filesystem can be migrated to Ext4 with an easy procedure which consists in running a couple of commands in read-only mode (described in the next section). This means that you can improve the performance, storage limits and features of your current filesystems without reformatting and/or reinstalling your OS and software environment. If you need the advantages of Ext4 on a production system, you can upgrade the filesystem. The procedure is safe and doesn't risk your data (obviously, backup of critical data is recommended, even if you aren't updating your filesystem :). Ext4 will use the new data structures only on new data, the old structures will remain untouched and it will be possible to read/modify them when needed. This means, of course, that once you convert your filesystem to Ext4 you won't be able to go back to Ext3 again (although there's a possibility, described in the next section, of mounting an Ext3 filesystem with Ext4 without using the new disk format and you'll be able to mount it with Ext3 again, but you lose many of the advantages of Ext4).

@@ -12,5 +12,8 @@ categories:
 - username
 ---
 Brother MFC-7440N Default Username and Password
+
+```
 Username: <strong>admin</strong>
 Password: <strong>access</strong>
+```
