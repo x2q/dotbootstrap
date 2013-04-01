@@ -1,10 +1,8 @@
 # standard jekyll configuration
 
 permalink: /:title/
-auto: true
-paginate: 10
-pygments: true
-exclude: ['Rakefile', 'README.md', 'config.rb']
+pygments: false
+exclude: ['Rakefile', 'README.md', 'config.rb', "Gemfile", "Gemfile.lock", "Procfile", "config.ru", "unicorn.rb", "_site"]
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
