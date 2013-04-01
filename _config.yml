@@ -1,7 +1,7 @@
 # standard jekyll configuration
 
 permalink: /:title/
-auto: false
+auto: true
 paginate: 10
 pygments: true
 exclude: ['Rakefile', 'README.md', 'config.rb']
