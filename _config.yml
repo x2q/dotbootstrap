@@ -2,6 +2,7 @@
 
 permalink: /:title/
 pygments: false
+paginate: 20
 exclude: ['Rakefile', 'README.md', 'config.rb', "Gemfile", "Gemfile.lock", "Procfile", "config.ru", "unicorn.rb", "vendor"]
 markdown: redcarpet
 redcarpet:
@@ -27,3 +28,9 @@ github:
 
 disqus:
   id: exblogx2qnet
+
+jekyll-press:
+  exclude: 'atom.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob patterns
+  js_options: {}      # js minifier options
+  css_options: {}     # css minifier options
+  html_options: {}    # html minifier options
